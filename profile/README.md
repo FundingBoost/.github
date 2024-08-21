@@ -1,5 +1,5 @@
 # FundingBoost(카카오톡 선물하기 기반 크라우드 펀딩 시스템)
-##### 구태형, 맹인호, 임창희, 양혜인, 이재현, 이재현
+##### 구태형, 맹인호, 임창희, 양혜인, 이재현, 현세미
 
 ## 1. 프로젝트 기획/배경
 
@@ -38,14 +38,11 @@
 
 ## 4. Tech Stack
 
-- Front-end : React, Scss, Recoil, npm, axios, React Bootstrap
-- Back-end : Spring Boot, Spring Data JPA, Spring Security, JWT, Gradle, Tomcat, Postman, Swagger, Junit, mockito, OAuth
-- Infra : Krampoline, Docker, Nginx, KargoCD
-- DataBase : H2, MariaDB, Redis
-- Collaboration Tools : Github, Kakao Talk, ERD Cloud, Jira, Confluence, Google Drive, Figma
-- Monitoring : Prometheus, Grafana
-- IDE : Intellij, Web Storm, DataGrip
-
+| <div style="text-align: center;"> Front-end <br> <img width="175" alt="image" src="https://github.com/user-attachments/assets/1e8b029c-1d52-45e0-86c5-dce110b17cf4"> </div> | <div style="text-align: center;"> Back-end <br> <img width="225" alt="image" src="https://github.com/user-attachments/assets/56c8ddc7-fb39-48cd-9759-c4e9e74da418"> </div> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+| <div style="text-align: center;"> Infra <br> <img width="190" alt="image" src="https://github.com/user-attachments/assets/14b5ad40-dceb-4504-9d94-407edbb05589"> </div> | <div style="text-align: center;"> Collaboration Tools <br> <img width="181" alt="image" src="https://github.com/user-attachments/assets/e720a42f-8464-4aff-b9c6-0a9c5900dcad"> </div> |
+| <div style="text-align: center;"> DataBase <br> <img width="181" alt="image" src="https://github.com/user-attachments/assets/08f77b4c-11f7-4847-93b6-e76a5031fb59"> </div> | <div style="text-align: center;"> Monitoring <br> <img width="112" alt="image" src="https://github.com/user-attachments/assets/058e1b84-fbab-468b-b004-a49ba1446be2"> </div> |
+| <div style="text-align: center;"> IDE <br> <img width="108" alt="image" src="https://github.com/user-attachments/assets/47ad650d-416f-4519-a738-3670d32f67e4"> </div> | |
 ## 5. 기능 구현
 
 ### Front-end
