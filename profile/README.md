@@ -1,6 +1,10 @@
 # FundingBoost(카카오톡 선물하기 기반 크라우드 펀딩 시스템)
-##### 구태형, 맹인호, 임창희, 양혜인, 이재현, 현세미
 
+- 프로젝트 기간 : 2024.03.28 ~ 2024.06.11
+- 프로젝트 구성원
+  - **Front-end**: [양혜인](https://github.com/happynow7), [현세미](https://github.com/SemiHyeon)
+  - **Back-end**: [구태형](https://github.com/koosco), [맹인호](https://github.com/MeangSung), [임창희](https://github.com/ChangHee98), [이재현](https://github.com/JHyun0302)
+ 
 ## 1. 프로젝트 기획/배경
 
 생일이나 기념일에 여러 개의 똑같은 저가의 상품 대신 평소에 받고 싶었던 고가의 상품을 펀딩을 통해 구매하자!
@@ -43,7 +47,14 @@
 | <div style="text-align: center;"> Infra <br> <img width="190" alt="image" src="https://github.com/user-attachments/assets/14b5ad40-dceb-4504-9d94-407edbb05589"> </div> | <div style="text-align: center;"> Collaboration Tools <br> <img width="181" alt="image" src="https://github.com/user-attachments/assets/e720a42f-8464-4aff-b9c6-0a9c5900dcad"> </div> |
 | <div style="text-align: center;"> DataBase <br> <img width="181" alt="image" src="https://github.com/user-attachments/assets/08f77b4c-11f7-4847-93b6-e76a5031fb59"> </div> | <div style="text-align: center;"> Monitoring <br> <img width="112" alt="image" src="https://github.com/user-attachments/assets/058e1b84-fbab-468b-b004-a49ba1446be2"> </div> |
 | <div style="text-align: center;"> IDE <br> <img width="108" alt="image" src="https://github.com/user-attachments/assets/47ad650d-416f-4519-a738-3670d32f67e4"> </div> | |
-## 5. 기능 구현
+
+## 5. 주요 기능
+
+| <div style="text-align: center;"> My 펀딩 생성 과정 <br> <img width="416" alt="image" src="https://github.com/user-attachments/assets/d75e4f15-c804-4b8e-aeba-0fc60844fef0"> </div> | <div style="text-align: center;"> 친구 펀딩 참여 과정 <br> <img width="416" alt="image" src="https://github.com/user-attachments/assets/145935cc-aaff-47f8-931e-2f1ce8928fbb"> </div> |
+|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <div style="text-align: center;"> 홈 화면 <br> <img width="259" alt="image" src="https://github.com/user-attachments/assets/3fb84ed4-7deb-4b42-878b-5d4b784806b0"> </div> | <div style="text-align: center;"> 마이 페이지 <br> <img width="258" alt="image" src="https://github.com/user-attachments/assets/24fa83cc-2e00-4490-91de-3627e38ac907"> </div> |
+
+## 6. 기능 구현
 
 ### Front-end
 1. **Atomic design pattern** : Component 개발
@@ -91,7 +102,7 @@
 - 서버 리소스 모니터링
 - 성능 테스트 모니터링
 
-## 6. 협업
+## 7. 협업
 
 1. Jira, Confluence
 - 이슈 관리
@@ -111,18 +122,17 @@
 - 서비스 아키텍처 구성
 - UI 설계
   
-## 7. Github
+## 8. Github
 https://github.com/FundingBoost
 
-
-## 8. Jira
+## 9. Jira
 https://kcsfinalproject.atlassian.net/jira/projects?selectedProjectType=software
 
-## 9. Confluence
+## 10. Confluence
 https://kcsfinalproject.atlassian.net/wiki/spaces/KAN/overview?homepageId=98536
 
-## 10. 발표자료
+## 11. 발표자료
 [FundingBoost Final PPT_v3.pdf](https://github.com/user-attachments/files/16691153/FundingBoost.Final.PPT_v3.pdf)
 
-## 11. 카카오 클라우드 스쿨 4기 수료영상
+## 12. 카카오 클라우드 스쿨 4기 수료영상
 https://www.youtube.com/watch?v=-va9M4iUHuI
